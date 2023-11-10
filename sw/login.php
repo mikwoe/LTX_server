@@ -419,7 +419,7 @@ if (strlen($action)) {
 		<div class="cloud x5"></div>
 		<!-- ***FOOTER*** -->
 		<div class="footer">
-			<a href="/">[Visit our Homepage]</a> &nbsp; <a href="../docs/">[Media-Browser]</a>
+			<a href="https://www.aspion.de">[Visit our Homepage]</a>
 		</div>
 	</div>
 	<script>
